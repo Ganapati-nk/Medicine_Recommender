@@ -1,4 +1,4 @@
-<h1> Medical Recommender System <h1> 
+# Medical Recommender System  
 
 Developed an innovative medical recommender system leveraging machine learning techniques to predict diseases based on user-provided symptoms. Utilized a dataset containing symptom-disease mappings and employed supervised learning algorithms for accurate predictions.
 
@@ -19,6 +19,7 @@ Developed an innovative medical recommender system leveraging machine learning t
          potentially reducing healthcare costs and improving overall well-being.
 
 This project showcases my expertise in machine learning, web development, and healthcare domain knowledge, along with a passion for leveraging technology to address real-world challenges in healthcare.
+
 
 LINK:https://medicine-recommender-vu9i.onrender.com
 
