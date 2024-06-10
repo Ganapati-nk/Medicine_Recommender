@@ -1,27 +1,66 @@
-# Medical Recommender System  
+<div align="center">
 
-Developed an innovative medical recommender system leveraging machine learning techniques to predict diseases based on user-provided symptoms. Utilized a dataset containing symptom-disease mappings and employed supervised learning algorithms for accurate predictions.
+# Medical Recommender System
 
-## Key Features:
-       -->Symptom Input: Enables users to input their symptoms through a user-friendly interface.
-       -->Disease Prediction: Utilizes trained machine learning models to predict the most probable diseases corresponding to the entered 
-          symptoms.
-       -->Personalized Recommendations: Provides personalized recommendations tailored to predicted diseases, including medication 
-         suggestions, workout routines, dietary advice, and precautionary measures.
+</div>
 
-## Technologies Used:
-       --> Programming Languages: Python
-       --> Frameworks/Libraries: Scikit-learn, Flask, nltk
-       --> Web Technologies: HTML, CSS, Bootstrap
+---
 
-## Impact:
-         Empowered users to proactively manage their health by providing early disease predictions and personalized recommendations, 
-         potentially reducing healthcare costs and improving overall well-being.
+<div align="justify">
 
-This project showcases my expertise in machine learning, web development, and healthcare domain knowledge, along with a passion for leveraging technology to address real-world challenges in healthcare.
+## Description
 
+The Medical Recommender System is a machine learning project aimed at predicting diseases based on user-provided symptoms. It utilizes a dataset containing symptom-disease mappings and employs supervised learning algorithms for accurate predictions.
 
-LINK:https://medicine-recommender-vu9i.onrender.com
+</div>
+
+---
+
+<div align="justify">
+
+## Project Link
+
+<a href="https://medicine-recommender-vu9i.onrender.com">Medical Recommender System</a>
+
+</div>
+
+---
+
+<div align="justify">
+
+## Key Features
+
+- Symptom Input: Users can input their symptoms through a user-friendly interface.
+- Disease Prediction: Trained machine learning models predict the most probable diseases corresponding to the entered symptoms.
+- Personalized Recommendations: Provides tailored recommendations including medication suggestions, workout routines, dietary advice, and precautionary measures.
+
+</div>
+
+---
+
+<div align="justify">
+
+## Technologies Used
+
+- Python
+- Scikit-learn
+- Flask
+- NLTK
+
+</div>
+
+---
+
+<div align="justify">
+
+## Impact
+
+Empowers users to proactively manage their health by providing early disease predictions and personalized recommendations, potentially reducing healthcare costs and improving overall well-being.
+
+</div>
+
+---
+
 
 
 
